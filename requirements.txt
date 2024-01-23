@@ -1,0 +1,5 @@
+opencv-python~=4.9.0.80
+pillow~=10.2.0
+numpy~=1.26.3
+keras~=3.0.3
+dlib~=19.24.2
